@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrickming&theme=dark&hide_border=true" />
 </picture>
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrickming&show_icons=true&theme=radical&hide_title=true)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrickming&show_icons=true&theme=radical&hide_title=true&include_all_commits=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickming&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickming&count_private=true&show_icons=true&theme=radical&hide=Jupyter_Notebook)
